@@ -1,0 +1,10 @@
+[ckan]
+url = http://ec2-54-194-162-22.eu-west-1.compute.amazonaws.com/
+api_key = your_key_here
+
+[publisher:hscic]
+name = hscic
+title = HSCIC
+description = The national provider of information, data and IT systems for health and social care
+image_url = http://www.hscic.gov.uk/hscic/images/toplogo.gif
+

@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+-e git://github.com/davidmiller/ffs#egg=ffs
+ckanapi
+lxml
+urlhelp
+cssselect
